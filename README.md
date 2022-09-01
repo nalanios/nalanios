@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 - 👋 Hi, I’m @nalanios
-- 👀 I’m interested in ... software engineering, hiking, video games, cooking
+- 👀 I’m interested in ... software engineering, data , hiking, video games, books
 - 🔭 I’m currently working on ... my cs degree
 - 🌱 I’m currently learning ... javascript/html/css & some advanced python
 - 👯 I’m looking to collaborate on ... coding projects & more
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @nalanios
-- 👀 I’m interested in ... tech, hiking, video games, cooking
+- 👀 I’m interested in ... tech, hiking, video games, books
 - 🔭 I’m currently working on ... my cs degree
 - 🌱 I’m currently learning ... javascript/html/css & some advanced python
 - 👯 I’m looking to collaborate on ... coding projects & more
-- 📫 How to reach me: ... 
+# - 📫 How to reach me: ... 
 
