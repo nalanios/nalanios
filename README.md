@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... my cs degree
 - 🌱 I’m currently learning ... javascript/html/css & some advanced python
 - 👯 I’m looking to collaborate on ... coding projects & more
-# - 📫 How to reach me: ... 
 
