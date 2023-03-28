@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on ... coding projects
 - 📫 How to reach me ... message me
 - 
--->
+
 
 - 👋 Hi, I’m @nalanios
 - 👀 I’m interested in ... tech, hiking, video games, books
 - 🔭 I’m currently working on ... my cs degree
 - 🌱 I’m currently learning ... javascript/html/css & some advanced python
 - 👯 I’m looking to collaborate on ... coding projects & more
-
+-->
